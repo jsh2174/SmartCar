@@ -3,10 +3,10 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.bigdata2017</groupId>
-	<artifactId>smartcarlog</artifactId>
+	<artifactId>smartcar</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
-	<name>smartcarlog</name>
+	<name>smartcar</name>
 	<url>http://maven.apache.org</url>
 
 	<properties>
@@ -46,7 +46,7 @@
 				<artifactId>maven-jar-plugin</artifactId>
 				<version>2.3.1</version>
 				<configuration>
-					<finalName>smartcarlog</finalName>
+					<finalName>smartcar</finalName>
 					<outputDirectory>working</outputDirectory>
 				</configuration>
 			</plugin>
